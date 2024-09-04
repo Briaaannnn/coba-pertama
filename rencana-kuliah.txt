@@ -3,6 +3,7 @@ Rencana kuliah
 -proposal
  mencari judul untuk proposal
  mencari dospem
+-tugas akhir
 -magang
 -course
 -learn
